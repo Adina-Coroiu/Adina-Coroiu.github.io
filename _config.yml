@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Adina Coroiu, PhD"
-  avatar           : "profile.png"
+  avatar           : "biopic.jpeg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Montreal, Canada"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=adina+coroiu"
   googlescholar    : "https://scholar.google.ca/citations?user=kbUn0qQAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,18 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Adina-Coroiu"
   github           : "Adina-Coroiu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/adina-coroiu-a20684100/"
+  linkedin         : "adina-coroiu"
   orcid            : "http://orcid.org/0000-0002-1836-2320"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "Adinica"
